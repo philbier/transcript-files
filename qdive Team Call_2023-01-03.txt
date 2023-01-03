@@ -1,0 +1,720 @@
+0:0:0.0 --> 0:0:1.600
+Saft, Danilo
+Ein schönes, eingefrorenes Bild.
+0:0:5.770 --> 0:0:6.370
+Glüsenkamp, Dennis
+Hallo.
+0:0:7.410 --> 0:0:8.70
+Wiebe, Johannes
+Nein.
+0:0:9.60 --> 0:0:9.610
+Glüsenkamp, Dennis
+Hi.
+0:0:6.900 --> 0:0:9.660
+Saft, Danilo
+Jetzt gehts wieder also man hört dich zumindest.
+0:0:11.290 --> 0:0:19.830
+Glüsenkamp, Dennis
+Ich weiß jetzt nicht, was du ich glaube, das hat wirklich die Fritzbox gestört, keine Ahnung ich hoffe es geht jetzt irgendwie mit dem mit der Internetverbindung.
+0:0:20.930 --> 0:0:24.530
+Glüsenkamp, Dennis
+Ok, seht ihr denn meine mein Bildschirm, oder?
+0:0:24.830 --> 0:0:25.900
+Wiebe, Johannes
+Das ja, ja.
+0:0:25.520 --> 0:0:26.180
+Manshaei, Kamyar
+Ja.
+0:0:26.920 --> 0:0:28.270
+Glüsenkamp, Dennis
+Okay, gut.
+0:0:28.60 --> 0:0:30.900
+Saft, Danilo
+Oder der ist eingefroren, aber ich sehe was ja.
+0:0:32.70 --> 0:0:35.80
+Glüsenkamp, Dennis
+Ok gut, jetzt bewege ich gerade meine Maus.
+0:0:33.330 --> 0:0:36.790
+Saft, Danilo
+Ne, der ist doch nicht ja es passt was geht.
+0:0:38.600 --> 0:0:44.70
+Glüsenkamp, Dennis
+Dann versuchen wir es mal und zwar mit den also ich hab die Seite erst heute einrichten können.
+0:0:45.320 --> 0:0:51.370
+Glüsenkamp, Dennis
+Deswegen hab ich wahrscheinlich auch niemand was eintragen können deswegen frag ich einfach so gibt es mandas.
+0:0:56.780 --> 0:1:14.830
+Solleder, Beate
+Ich wollte nochmal fragen, weil ich die E-Mail an den dich Analytics Community rausschicken möchte, aber wir haben ja letztens erzählt, dass wir das Format umstellen, also dass wir keine regelmäßigen Calls mehr machen wollen, sondern nur quasi Espresso Sessions aber.
+0:1:16.540 --> 0:1:35.440
+Solleder, Beate
+Dass wir eventuell Kollegen auch von externen, also nicht Q Dave zulassen möchten zu Knowledge Sessions es gab dann eine kurze Diskussion und dann hat es geheißen müssen wir noch überlegen, wie oder was ich würde diese Email aber gerne rausschicken und die Leute informieren, dass es jetzt keine Calls mehr gibt?
+0:1:36.520 --> 0:1:46.880
+Solleder, Beate
+Ist es okay, wenn wir sehr vage formulieren, dass wir, dass es die Möglichkeit gibt, da auch teilzunehmen und dass die sich in der die Interessierten sich bei uns melden?
+0:1:50.290 --> 0:1:58.360
+Solleder, Beate
+Passt das? Und dann schauen wir mal, wie viele sich da überhaupt melden proaktiv und dann können wir überlegen, wie wir das tun oder ok.
+0:2:3.550 --> 0:2:4.150
+Solleder, Beate
+Ja.
+0:1:58.420 --> 0:2:6.900
+Glüsenkamp, Dennis
+Ja, genau weil, dann kann man immer noch sehen wie fühlst dann am Ende des Tages sind und wer von dem Karteileichen dann wieder aufersteht Quali?
+0:2:5.290 --> 0:2:8.770
+Solleder, Beate
+Genau ja, na, passt okay danke.
+0:2:9.830 --> 0:2:18.20
+Kraus, Clemens
+Ja noch was für eine technische Tiefe die Leute haben, die sich melden, also weil ich glaub an Lars Erdmann das bringt nichts, wenn der dabei ist, wenn wir ehrlich sind.
+0:2:18.150 --> 0:2:20.700
+Solleder, Beate
+Genau vielleicht sollten wir.
+0:2:19.510 --> 0:2:23.950
+Kraus, Clemens
+So aber dann kann man mit denen ja auch noch mal reden, ja.
+0:2:20.750 --> 0:2:24.980
+Solleder, Beate
+Erwähnen, dass das eher technische technische neue stechen sind, ja.
+0:2:25.700 --> 0:2:42.50
+Kraus, Clemens
+Oder man macht es wirklich so, dass man halt immer das Thema ankündigt, vorher eine Email an alle und dann, wenn es was prozessuales Projekt mäßiges vorgestellt wird, dann ist es vielleicht spannender für ein Anfänger Kreis. Während wenn wir in Deep Dive in den Coffeebot machen, das vielleicht nicht spannend, dass wir manche.
+0:2:42.90 --> 0:2:47.90
+Solleder, Beate
+Eben also ich würd ich würd das entscheiden genau solche Sachen, wenn wir wissen, wer sich meldet oder?
+0:2:47.810 --> 0:2:48.250
+Solleder, Beate
+Ja.
+0:2:47.940 --> 0:2:48.300
+Glüsenkamp, Dennis
+Ja.
+0:2:47.850 --> 0:2:49.270
+Kraus, Clemens
+Ja, genau richtig würde ich auch sagen.
+0:2:50.220 --> 0:2:50.650
+Solleder, Beate
+Danke.
+0:2:50.750 --> 0:2:53.100
+Glüsenkamp, Dennis
+Ja, schön zielgruppenspezifisch dann.
+0:2:59.190 --> 0:2:59.680
+Glüsenkamp, Dennis
+Ok.
+0:3:1.360 --> 0:3:4.650
+Glüsenkamp, Dennis
+Haben wir noch andere superagent matters?
+0:3:9.60 --> 0:3:9.580
+Glüsenkamp, Dennis
+Gut.
+0:3:10.460 --> 0:3:12.940
+Glüsenkamp, Dennis
+Dann Produkt Development Update.
+0:3:18.700 --> 0:3:29.380
+Kraus, Clemens
+Wir machen grad gar nicht so wirklich was oder also ich meine, wir hatten die Session im Dezember, wo wir grob neue Ideen gesammelt haben oder Neil oder was früher dabei habt ihr irgendwie besprochen, wie wir weiter machen wollt.
+0:3:34.920 --> 0:3:35.300
+Saft, Danilo
+Ja.
+0:3:29.940 --> 0:3:37.490
+Kraus, Clemens
+Weil Contract wieder ist ja gerade eher so on hold, weil ihr das liege. Projekt macht Coffee Break Boot ist auch so ein bisschen erholt, weil wir.
+0:3:38.140 --> 0:3:43.420
+Kraus, Clemens
+Keine Zeit haben und nicht wissen, wie viel Energie reinstecken wollen. Dann wäre so eher so die Frage, wie wir weiter machen wollen.
+0:3:43.840 --> 0:4:3.440
+Saft, Danilo
+Ja, also tatsächlich hatte ich auch im Sinn, dass das so ne on Going regelmäßige Diskussion wird, ohne dass wir da erzählt irgendwie jede Woche dazu sprechen. Tsächlich haben wir zudem stand noch nichts Neues. Ich hatte mit Dennis Mal ein Austausch letzten Jahr und das war es.
+0:4:4.990 --> 0:4:13.340
+Saft, Danilo
+Ist auch ein bisschen dem geschuldet, dass jetzt bjb erstmal das Angebot fertig werden muss, aber ich hab schon vor, dass dann wieder aufzugreifen.
+0:4:22.10 --> 0:4:22.590
+Saft, Danilo
+Genau.
+0:4:14.670 --> 0:4:32.360
+Glüsenkamp, Dennis
+Da können wir ja in einen 4 Wochen wäre glaube ich das nächste dann vielleicht können wir dann ja mal über diese Liste nochmal drüber gucken, auch wenn nichts oder einfach nur nachdem es jetzt alle Ansagen lassen, so ungefähr selbst wenn dann nichts direkt mir dann passieren wird, weil wann ist.
+0:4:32.80 --> 0:4:33.280
+Kraus, Clemens
+Der hat jetzt auch gesagt.
+0:4:34.130 --> 0:4:40.800
+Kraus, Clemens
+Also wenn wir in 4 Wochen an dieser Stelle einfach nochmal drüber reden, hätten wir ja genau diese 15 - 30 Minuten um da irgendwie nochmal.
+0:4:41.460 --> 0:4:41.780
+Glüsenkamp, Dennis
+Ja.
+0:4:42.910 --> 0:4:44.30
+Kraus, Clemens
+Du tiefer rein zu gehen?
+0:4:42.640 --> 0:4:48.560
+Saft, Danilo
+Das wird hier quasi als ein Kinder Punkt aufnehmen, ja, das ist gut, ja, dann lass uns das nicht so festhalten.
+0:4:46.690 --> 0:4:49.550
+Kraus, Clemens
+Wir haben wir ja eh und wenn wir gerade sonst gar nichts anderes machen.
+0:4:49.990 --> 0:4:50.380
+Saft, Danilo
+Ja.
+0:4:50.460 --> 0:4:58.170
+Kraus, Clemens
+Also ich hoffe, dass es in 4 Wochen wieder kommt. Ich bin mir unsicher wie wie der Bot jetzt weiter startet, aber prinzipiell sollte sind 4 Wochen sein ja.
+0:4:59.570 --> 0:5:1.550
+Glüsenkamp, Dennis
+Wann muss Julius Bär raus?
+0:5:4.20 --> 0:5:5.850
+Saft, Danilo
+16. Januar.
+0:5:5.530 --> 0:5:6.650
+Glüsenkamp, Dennis
+Ach so okay?
+0:5:10.750 --> 0:5:11.270
+Glüsenkamp, Dennis
+Jo.
+0:5:12.180 --> 0:5:31.680
+Wiebe, Johannes
+Aber zu in dem auf Zeit haben wir auf dieser eine Slide die Übersicht erstellt. Zu den verschiedenen Produkten, wo die stehen und welche Aktivitäten wird da geplant haben? Zum Beispiel steht ja noch Tobi D find, aber andere sind ja da, steht ja was und dann könnten wir dazu nochmal den Status irgendwie.
+0:5:36.30 --> 0:5:45.250
+Wiebe, Johannes
+So ich gehe, ob sich da was geändert hat oder so, das könnten wir auch machen können, sogar irgendwie als Items irgendwo einbringen in Gera oder sowas, dann können wir das hier an der Stelle diskutieren.
+0:5:48.670 --> 0:5:59.320
+Kraus, Clemens
+Ja, das wäre gut, wenn wir das ins Bett locken mit aufnehmen, dann haben wir alles gesammelt da drin. Wir können ja einfach noch einen Tag erstellen irgendwie Product Development, so wie wir den Tag Visibility und Sales oder sonst was haben.
+0:6:0.100 --> 0:6:1.700
+Glüsenkamp, Dennis
+Ich meine jetzt hier in Spaces.
+0:6:2.150 --> 0:6:6.750
+Kraus, Clemens
+Ja, genau, dann kann man das irgendwie immer nachvollziehen, ob was passiert und was wir priorisieren.
+0:6:27.200 --> 0:6:31.170
+Kraus, Clemens
+Weil ich glaube, die gesamte Backlog Liste ist ja noch länger als jetzt nur.
+0:6:32.520 --> 0:6:37.530
+Kraus, Clemens
+Das Board wenn du auf auf die Schule gehst, kann man einfach eine neue erstellen.
+0:6:39.500 --> 0:6:40.860
+Glüsenkamp, Dennis
+SK.
+0:6:52.30 --> 0:6:54.150
+Glüsenkamp, Dennis
+Gibt hier keine Hinzufügen.
+0:6:56.450 --> 0:6:59.60
+Kraus, Clemens
+Doch äh.
+0:7:2.200 --> 0:7:4.440
+Kraus, Clemens
+Gute Frage gerade, ich bin auch überfragt.
+0:7:5.380 --> 0:7:8.680
+Glüsenkamp, Dennis
+Hätte jetzt irgendwo Sohn plus oder was er an?
+0:7:6.240 --> 0:7:9.290
+Kraus, Clemens
+Bill war nochmal so ein Button.
+0:7:12.420 --> 0:7:18.200
+Biermann, Phillip
+Das ist eine gute Frage, nicht dass er jetzt gerade die Rechte nicht hat, ist auch doof, kann nicht sein.
+0:7:17.750 --> 0:7:19.320
+Glüsenkamp, Dennis
+Aber mir ist kein G.
+0:7:21.90 --> 0:7:21.910
+Kraus, Clemens
+Ach so bist du.
+0:7:20.300 --> 0:7:22.0
+Biermann, Phillip
+Aber ja geh mal bei meinem.
+0:7:22.630 --> 0:7:28.190
+Kraus, Clemens
+Gehen wir beim, bist du nicht beigetreten Board das könnte sein ich glaub nur Wort members dürfens machen.
+0:7:28.700 --> 0:7:29.700
+Glüsenkamp, Dennis
+Dem Board.
+0:7:32.240 --> 0:7:37.380
+Kraus, Clemens
+Na geh mal auf das ne auf das Dashboard ganz oben.
+0:7:39.800 --> 0:7:40.900
+Kraus, Clemens
+Click auf members.
+0:7:44.0 --> 0:7:44.880
+Kraus, Clemens
+Und?
+0:7:46.850 --> 0:7:51.60
+Kraus, Clemens
+Genau wenn du glaub ich jetzt aufatmen was und ich selbst ein rein packst oder so?
+0:7:58.260 --> 0:7:59.740
+Glüsenkamp, Dennis
+Komm ich jetzt alleine?
+0:8:1.130 --> 0:8:2.70
+Kraus, Clemens
+Gute Frage.
+0:8:1.130 --> 0:8:5.570
+Biermann, Phillip
+Nur du hast dich jetzt bei Team rein was finde ich bei Administrators reingehauen?
+0:8:8.110 --> 0:8:10.350
+Glüsenkamp, Dennis
+Ach so, muss woanders muss hier rein, oder?
+0:8:10.200 --> 0:8:11.690
+Biermann, Phillip
+Mama Mama, da rein ja.
+0:8:15.980 --> 0:8:20.530
+Glüsenkamp, Dennis
+Wusste ich noch nicht drin bin, kann ich mich selbstständig als Administrator hinzufügen.
+0:8:20.720 --> 0:8:24.280
+Kraus, Clemens
+Ja, das haben wir so eingestellt. Bei dem Port extra, dass wir nicht alle zu hinzufügen müssen.
+0:8:24.860 --> 0:8:26.840
+Kraus, Clemens
+Jetzt kannst du plus drücken, mich ohh.
+0:8:26.930 --> 0:8:27.660
+Biermann, Phillip
+Mhm.
+0:8:25.220 --> 0:8:28.370
+Glüsenkamp, Dennis
+So Ah, okay.
+0:8:29.710 --> 0:8:30.390
+Glüsenkamp, Dennis
+Also.
+0:8:28.620 --> 0:8:34.30
+Kraus, Clemens
+Ja, gut, Glück gehabt ist auch der 3. Januar. Da können wir uns mal vergessen, wie das geht.
+0:8:35.380 --> 0:8:40.330
+Glüsenkamp, Dennis
+So ähm, wie ist das Dokument da Nino Produkt?
+0:8:40.700 --> 0:8:43.120
+Wiebe, Johannes
+Lockt Entwicklung 2023 plus.
+0:8:48.300 --> 0:8:48.780
+Glüsenkamp, Dennis
+So.
+0:8:49.220 --> 0:8:49.530
+Saft, Danilo
+Ja.
+0:8:49.890 --> 0:8:50.330
+Wiebe, Johannes
+Mhm.
+0:8:50.180 --> 0:8:50.760
+Glüsenkamp, Dennis
+Ok.
+0:8:55.60 --> 0:8:56.80
+Glüsenkamp, Dennis
+Ja, das klappt schon.
+0:8:56.950 --> 0:9:3.500
+Saft, Danilo
+Ja, also im Prinzip werden die Aufgabe ja diese Liste gemeinsam noch mal zu sichten und zu bewerten.
+0:9:4.440 --> 0:9:7.620
+Saft, Danilo
+Im nächsten Activiti und Produkt.
+0:9:8.420 --> 0:9:9.210
+Saft, Danilo
+Termin.
+0:9:23.420 --> 0:9:24.840
+Glüsenkamp, Dennis
+Ein 30. Januar.
+0:9:29.630 --> 0:9:30.40
+Glüsenkamp, Dennis
+Gut.
+0:9:37.590 --> 0:9:38.170
+Glüsenkamp, Dennis
+A.
+0:9:42.220 --> 0:9:43.900
+Glüsenkamp, Dennis
+Okay, dann machen wir Produkt.
+0:9:44.740 --> 0:9:48.540
+Kraus, Clemens
+Ja, ich glaub, du musst dann aber in dem anderen neue Filtern.
+0:9:49.830 --> 0:9:50.170
+Kraus, Clemens
+Ja.
+0:9:49.920 --> 0:9:50.370
+Glüsenkamp, Dennis
+Ja.
+0:9:53.760 --> 0:9:56.870
+Kraus, Clemens
+Ne, ich glaub du kannst keine andere Flyer erstellen, leider setzt erstmal.
+0:9:59.750 --> 0:10:1.820
+Kraus, Clemens
+Setzen sie erstmal auf Team und dann ich mach das gleich.
+0:10:5.130 --> 0:10:5.880
+Glüsenkamp, Dennis
+Alles klar?
+0:10:10.290 --> 0:10:14.770
+Glüsenkamp, Dennis
+Gut, dann sind wir sowieso hier bei den beim.
+0:10:16.670 --> 0:10:19.20
+Glüsenkamp, Dennis
+Wie heißen die activities so?
+0:10:24.460 --> 0:10:26.150
+Glüsenkamp, Dennis
+Wie auch immer oben an oder?
+0:10:27.260 --> 0:10:57.840
+Kraus, Clemens
+Genau Axel und ich haben uns im Dezember nochmal ausgetauscht und wir wollten das jetzt hier mal mit euch besprechen. Wir hatten das Gefühl, dass es manche Meetings gibt von unseren 4 also für die, die es jetzt nicht parat haben. Wir haben ja 4 verschiedene Meetings, die dann immer in 4 Wochen Rhythmus rollieren. Das eine ist das Update. Zu den Projekten nehmen wir gleich Project Update, dann haben wir das Activity und backlog Update also dieses Meeting hier und wir haben das alles Update und das desing Update.
+0:10:59.990 --> 0:11:3.500
+Kraus, Clemens
+Axel und ich hatte das Gefühl, dass das.
+0:11:4.520 --> 0:11:35.750
+Kraus, Clemens
+Ja, Project Updates, so das Wichtigste ist und auch das Interessanteste für uns und das manchmal das Stewing und des Saales Update so n bisschen bisschen lahm ist. Daher war die Überlegung, ob man statt und Sales Zusammenpackt in einem Meeting und entweder einen dreiwöchigen Rhythmus fährt, in der in der Rotierung oder ob wir einen Termin machen wollen, wo ein Projekt in Tiefe vorgestellt wird alle 4 Wochen.
+0:11:36.480 --> 0:11:50.760
+Kraus, Clemens
+Weil bei dem normalen Project Update ja eigentlich nur so.no. Wir haben hier einen kurzen Überblick und das sind irgendwie die Sachen. Die letzten 4 Wochen passiert sind aber gerade für neue Menschen oder für Menschen wie mich, die auch wieder vergessen, was sie eigentlich in den Projekten macht. Wär vielleicht so an.
+0:11:51.740 --> 0:12:18.140
+Kraus, Clemens
+In der Bf Project Update, was man dann ja eh wahrscheinlich nur einmal im Jahr halten würde, wenn wir alle Projekte also dann wäre ja, sagen wir mal in Kassel Projekte und dann in 4 Wochen wäre ein anderes Projekt bis mein Inkasso Projekt wieder in Depth drin ist, wäre das wahrscheinlich schon wieder vorbei. Wer jetzt ein bisschen die Überlegung ob das sinnvoll wäre oder ob das dann total dumme Idee ist und Axel oder gerne ergänzen. Ich glaube, wir hatten noch einen Punkt, den ich jetzt vergessen hab, weil ich meine Zettel nicht finden.
+0:12:22.660 --> 0:12:23.860
+Demel, Axel
+Weiß ich jetzt grad nix?
+0:12:24.500 --> 0:12:26.960
+Demel, Axel
+Aber wenn wir noch was einfällt, was wir noch gesagt haben aber.
+0:12:27.810 --> 0:12:49.550
+Kraus, Clemens
+Tabletten 3 Punkte durch 13 dritten auch nicht mehr also genau hat sozusagen die die 2 konkreten Maßnahmen Sales und Stepping Update zusammen. Gerade weil wir da ja auch inzwischen relativ viel über diese Opportunity Ausreden auf die Leute vielleicht die Möglichkeit haben, Projekte zu mitzumachen, dass man das zusammen ab frühstückt, indem man sagt okay, wir haben hier Leute die.
+0:12:50.480 --> 0:13:0.330
+Kraus, Clemens
+Auch irgendwie Projekte gestrafft werden können und wie sonst so, dass der Zeitplan ist, dass das irgendwie ganz gut zusammenpasst und dann entweder 3 Slots ohne den vierten Slot mit irgendwas besetzen.
+0:13:1.540 --> 0:13:2.900
+Kraus, Clemens
+Jetzt nur als Vorschlag.
+0:13:3.900 --> 0:13:13.970
+Kraus, Clemens
+Wir müssen uns auch nicht unbedingt heute klären. Ich glaub so wie es gerade ist, können wir uns auch einfach weiterlaufen lassen und dann manche Meetings einfach ein bisschen früher beenden oder für andere Sachen zur Klärung nehmen.
+0:13:14.610 --> 0:13:20.200
+Kraus, Clemens
+Ihr könnt auch gerne einfach nochmal drüber nachdenken und einfach Feedback geben an Axel mich w noch immer.
+0:13:21.80 --> 0:13:22.900
+Kraus, Clemens
+Und genau.
+0:13:23.440 --> 0:13:24.290
+Glüsenkamp, Dennis
+Also dann.
+0:13:23.560 --> 0:13:26.50
+Kraus, Clemens
+Vielleicht, dass wir es einfach ein bisschen streamline und können.
+0:13:26.760 --> 0:13:30.990
+Glüsenkamp, Dennis
+Also dann wäre 1 dort wären Sales und Starting einer wäre Projekte.
+0:13:31.790 --> 0:13:32.200
+Kraus, Clemens
+Ja.
+0:13:32.930 --> 0:13:34.780
+Glüsenkamp, Dennis
+Der Dritte wäre.
+0:13:37.10 --> 0:13:37.670
+Manshaei, Kamyar
+Videos.
+0:13:35.860 --> 0:13:42.610
+Kraus, Clemens
+Activities also, wenn wir da die Produkte auch mit hier in das Dashboard aufnehmen, dann wäre das ja eigentlich nur noch das Aktivität Update.
+0:13:43.490 --> 0:13:54.30
+Kraus, Clemens
+Dann könnten wir hier sozusagen noch n noch einen Reiter, also jetzt allgemein oder Sales, noch ein Reiter machen für für Produkte, dann können wir darüber reden. Sowohl die Dion golden sind als auch die, die geplant sind.
+0:13:55.0 --> 0:13:56.110
+Glüsenkamp, Dennis
+Ja ok.
+0:13:56.190 --> 0:13:56.770
+Kraus, Clemens
+Genau.
+0:13:57.720 --> 0:13:58.230
+Manshaei, Kamyar
+Ja.
+0:13:59.160 --> 0:14:21.210
+Glüsenkamp, Dennis
+Ich hätte sonst noch als zusätzlichen, also auch für vielleicht für ein viertes Leute. Ich weiß es nicht, ich hab fest gehört, manchmal gibt es so Themen, die passen irgendwo nirgendwo so richtig rein, also dafür gibt es hier so ein Teamcall nichts dafür. Wie passen aber auch irgendwie noch nicht so in den Sales teil rein, weil sie irgendwie keinen Vertriebspartner und.
+0:14:22.30 --> 0:14:34.970
+Glüsenkamp, Dennis
+Sie passen auch nicht in die neue Session rein, weil da auch nicht so kannst hinhaut. Was ist mit solch also neue Themen einfach, die man irgendwie mal auch länger besprechen möchte als irgend matters in 5 Minuten so so ungefähr.
+0:14:36.590 --> 0:14:37.180
+Glüsenkamp, Dennis
+Würde.
+0:14:36.470 --> 0:14:38.900
+Kraus, Clemens
+Du meinst, man könnte auch ein Meeting machen was?
+0:14:39.790 --> 0:14:45.740
+Kraus, Clemens
+Irgend matters in lange ist, sind dann vielleicht nicht irgendwie könnten sie ja matters nennen, also finde ich auch ok.
+0:14:47.250 --> 0:14:48.240
+Kraus, Clemens
+Äh ja.
+0:14:46.490 --> 0:14:59.240
+Glüsenkamp, Dennis
+Ja, also ich weiß hätte ich halt zum Beispiel hab ich jetzt für dieses Sustainability Thema in extra Termin rausgesucht und sowas wäre ja eigentlich eher dann in so einer Runde auch ganz, ganz gut aufgehoben.
+0:15:0.110 --> 0:15:0.970
+Wiebe, Johannes
+Meinst du sowas?
+0:15:0.210 --> 0:15:15.830
+Kraus, Clemens
+Die Frage ist, was wir machen, wenn wir kein Thema haben. In dem Termin lassen wir dann ausfallen, machen wir irgendwie Kaffeeklatsch also ich meine es auch cool, wir können noch dann irgendwie so Mini Retro Sessions machen, wo alle mal sagen wie sie, ob sie gerade krank sind oder ob die Sonne scheint, das ist auch cool.
+0:15:16.880 --> 0:15:19.970
+Kraus, Clemens
+Ist halt so ein bisschen die Frage was wir machen, wenn es kein Thema gibt.
+0:15:30.20 --> 0:15:30.590
+Kraus, Clemens
+Aber.
+0:15:29.340 --> 0:15:37.540
+Wiebe, Johannes
+An der das nochmal die Frage du machst denn sowas wie Innovation sozusagen, also mal irgendwie so ins Grüne gedacht, oder oder was meinst du?
+0:15:38.110 --> 0:16:7.450
+Glüsenkamp, Dennis
+Ja, ja Innovationen einen oder also Innovationen ist das eine so Themen Themenideen, oder was könnte relevant werden? Wo? In welche Richtung könnten wir uns auch entwickeln? Vielleicht auch so gewisse Team fragen also wo würde zum Beispiel jetzt kommt es ja da unten gleich noch, aber unser großes Model und unser Learning Part und das wo würde das reinpassen, das Halt auch ein bisschen schwierig.
+0:16:8.200 --> 0:16:17.830
+Glüsenkamp, Dennis
+Also mir fallen jetzt so gleich 34 Themen, die vielleicht dann in solchen Runden besprochen werden können, das wäre schon Viertel oder Drittel des Jahres.
+0:16:18.230 --> 0:16:21.650
+Kraus, Clemens
+Ja, passt doch also das können wir gerne starten also ich würd sagen.
+0:16:22.970 --> 0:16:25.210
+Kraus, Clemens
+Wir überlegen alle nochmal irgendwie Freitag ob es.
+0:16:25.800 --> 0:16:38.200
+Kraus, Clemens
+Probleme geben könnte irgendwie Staffing und Sales zusammenzulegen und noch weitere Ideen für den vierten Slot ich finde die Idee gerade ziemlich gut, dann können wir irgendwie ne ne Umfrage machen bei Slack irgendwie, wir wurden für irgendwas.
+0:16:38.570 --> 0:16:38.980
+Glüsenkamp, Dennis
+Ja.
+0:16:39.710 --> 0:16:41.440
+Kraus, Clemens
+Und dann will ich den Bot anpassen.
+0:16:49.40 --> 0:16:50.100
+Glüsenkamp, Dennis
+Ja ja.
+0:16:42.380 --> 0:16:51.100
+Kraus, Clemens
+Und dann können wir uns einfach mal ich meine, das ist auch nicht in Stein gemeißelt sind ja frei, dass das auch wieder zu ändern, wenn es nicht klappt ja, wir merken das total doof.
+0:16:51.260 --> 0:16:51.620
+Glüsenkamp, Dennis
+Ja.
+0:16:54.90 --> 0:16:54.590
+Glüsenkamp, Dennis
+Okay.
+0:17:2.230 --> 0:17:5.600
+Glüsenkamp, Dennis
+Also bei in progress. Julia ist nicht da.
+0:17:7.280 --> 0:17:11.230
+Glüsenkamp, Dennis
+Buy Open ist Workshop Automotive organisieren von Dir Clemens noch aber.
+0:17:12.180 --> 0:17:13.420
+Glüsenkamp, Dennis
+To do für Daniel?
+0:17:15.510 --> 0:17:16.260
+Kraus, Clemens
+Oh ja.
+0:17:17.260 --> 0:17:17.910
+Kraus, Clemens
+Danke.
+0:17:19.590 --> 0:17:20.880
+Glüsenkamp, Dennis
+Keine Ahnung, was das ist.
+0:17:18.580 --> 0:17:21.330
+Kraus, Clemens
+Das ist ja, ich kümmer mich mal drum.
+0:17:24.600 --> 0:17:25.130
+Glüsenkamp, Dennis
+Okay.
+0:17:21.930 --> 0:17:28.340
+Kraus, Clemens
+Ja, ich weiß, dass tatsächlich ja, hab ich noch nicht gemacht, hab ich auch Januar geschoben aber wir haben ja leider nur.
+0:17:28.870 --> 0:17:29.270
+Wiebe, Johannes
+Mhm.
+0:17:32.240 --> 0:17:41.990
+Glüsenkamp, Dennis
+Gut, dann sind wir mal Team, hierzu kann ich sagen das passt ja relativ gut mit dem Axel zusammen, was wir.
+0:17:42.40 --> 0:17:48.780
+Glüsenkamp, Dennis
+Das war auf der in München gemacht haben. Wir haben ja jetzt einen Konferenz.
+0:17:49.580 --> 0:17:55.300
+Glüsenkamp, Dennis
+Seiten sind jetzt schon geworden eingerichtet, wo wir einmal beschreiben.
+0:17:56.330 --> 0:18:3.650
+Glüsenkamp, Dennis
+Also ist noch ist noch in in in Progress? Deswegen ja, passt ja eigentlich können wir das dann hier auch darüber schieben.
+0:18:4.890 --> 0:18:39.850
+Glüsenkamp, Dennis
+So wo wir beschreiben, wie wir uns das vorstellen, wie diese Aufsplittung in Lied und Expert und was für für Stufen dafür sehen und so und wenn wir damit fertig sind. Diesen Stand, den wir auch in München diskutiert haben und das Ganze noch ein bisschen ausformuliert haben und auch besser formuliert haben, was jetzt die Übertragung von Kopierer Großmodell zu Cuties Großmodell betrifft. Dann werden wir da so weit das nochmal in dem Team zu zu diskutieren, ich kann das sonst mal noch einmal versuchen hier zu zeigen, damit ihr das auch alles findet.
+0:18:39.900 --> 0:18:41.720
+Glüsenkamp, Dennis
+Und was ihr da seht?
+0:18:47.510 --> 0:18:48.520
+Glüsenkamp, Dennis
+Irgendwie auch ich wars.
+0:18:53.870 --> 0:19:27.500
+Glüsenkamp, Dennis
+Na also, hier war, dass das so ein Brainstorming drin, das ist aber nicht mehr das hier ist auch nicht mehr relevant. Genau es gibt jetzt diese Kuh, die Organisations dieses Leid. Da haben wir schon mal so verschiedene Sachen zusammengefasst. Da sind wir aber hier noch unterwegs ist nur der Screenshots aus Excel aber genauso wie wir es in München besprochen haben, wird diese Grundfähigkeiten geben. Also was muss bereits erreicht sein, um auf die Stufe zu kommen und grau dann was kann man während dieser Zeit in der Stufe weiter ausbilden, um sich dann
+0:19:27.850 --> 0:19:46.850
+Glüsenkamp, Dennis
+mit dem nächsten Schritt zu zu qualifizieren, sozusagen und was Zertifizierung anbetrifft? Auch darüber haben wir ja ganz kurz mal gesprochen habe ich mal ein bisschen angefangen, so Sachen aufzuschreiben, erstmal nur um zu wissen ok, was ist das und was gibt es da für Stufen und was könnte für uns interessant sein? Und auch da können wir dann.
+0:19:47.470 --> 0:19:50.810
+Glüsenkamp, Dennis
+Wenn das verloren geht es um gewichen ist, mein genauer drüber sprechen.
+0:19:53.320 --> 0:19:53.820
+Glüsenkamp, Dennis
+Du.
+0:19:57.550 --> 0:19:58.480
+Glüsenkamp, Dennis
+Ja klar.
+0:19:58.530 --> 0:20:16.690
+Wiebe, Johannes
+Meine Meinung hierzu zu zertifizieren und so ich hatte irgendwann mal irgendeine Ausschreibung oder wo wir angeboten hatten, da hat mich jemand von Piri gefragt, ob ich irgendwie fizierung habe ja gesagt ne was Virtualisierung, scrum und sowas und.
+0:20:17.650 --> 0:20:33.810
+Wiebe, Johannes
+Ich weiß nicht, ich hab irgendwo eine glaub ich rumliegen, aber ich weiß nicht mehr wo ist aber ich hab 2 Jahre oder 3 scrum befahrung ne also sich das gar nicht mehr so relevant an der lernt man so ganz tolle Sachen, aber die vergisst man ganz schnell wieder, wenn man es nicht praktisch angewendet hat ne oder sollen wir doch wert auf sowas legen, weil das irgendwie?
+0:20:35.540 --> 0:20:39.760
+Wiebe, Johannes
+Transparenter besser sichtbar ist als irgendwie ne Behauptung.
+0:20:40.30 --> 0:20:52.540
+Glüsenkamp, Dennis
+Also das was du gerade geschrieben hast, dieses hast du eine Zertifizierung diese Frage, die ist schon relevant, und die taucht schon auf und da geht es dann eben schon um die Frage, ob man das mit irgendeiner.
+0:20:54.130 --> 0:21:24.640
+Glüsenkamp, Dennis
+Ja, mit einem Zertifikat dann nachweisen kann in der Hinsicht, dass deswegen hab ich jetzt mal ein Beispiel von Scrum zum Beispiel hier auch die von Scrum Doktor Kauf genommen. Die Zertifizierung, das sind auch meine ich die mit der auf den Kopierer mit ihren Schulungen hinarbeiten das Schöne an denen ist halt. Die gelten dann Lebenslagen und die verfallen nicht irgendwann wie bei Krümmel 1 glaube ich und deswegen wäre das halt so also finde ich eigentlich eine ganz gute Sache.
+0:21:24.690 --> 0:21:47.600
+Glüsenkamp, Dennis
+Dass man sagt nee, also klar wissen wir, man muss da irgendwie auch praktisch mitgearbeitet haben, aber wir machen das dann hier einmal zum Beispiel PSM 1 und können das dann belegen, sind dann aber insofern fit aber die die Frage von von Kunden oder so die geht schon in der in die Richtung könnt ihr das wirklich belegen? Nicht nur durch seine Erfahrung?
+0:21:48.720 --> 0:21:49.280
+Wiebe, Johannes
+Okay.
+0:21:54.170 --> 0:21:55.590
+Demel, Axel
+Also vielleicht auch noch Weiher?
+0:21:54.320 --> 0:21:55.950
+Kraus, Clemens
+Weil ich glaube, es war die Diskussion.
+0:21:56.680 --> 0:21:57.10
+Kraus, Clemens
+Sorry.
+0:21:57.440 --> 0:22:13.300
+Demel, Axel
+Das war ja die, die sich, die wir da auch einbringen wollten. Wir wollten jetzt keine Zertifizierung der Zertifizierung willen da rein bringen, sondern ging es ja darum, was aus Sales Perspektive einfach Sinn macht das jemand angeboten kann beziehungsweise was ihnen angeboten verlangt würde, oder in Anfragen verlangt wird.
+0:22:15.740 --> 0:22:26.470
+Kraus, Clemens
+Ja genau ich glaub, es geht eher wirklich umso Zertifizierung, die wir häufiger schon angeboten gesehen haben, so wie du schon gesagt hast Johannes und jetzt nicht unbedingt um die Zertifizierung meine P Kurs bei.
+0:22:27.200 --> 0:22:42.780
+Kraus, Clemens
+Keine Ahnung Judas City Zertifikat. Weil danach also ich persönlich habe noch nie gesehen, dass danach gefragt wurde das ist dann eher, dass das in so einem Projekt Interview passiert, dass jemand fragt Buch und Weißt du eigentlich, was eine Regression ist? So in der Art also fast ein bisschen so wie bei uns bei den Vorstellungsgesprächen?
+0:22:43.160 --> 0:22:43.690
+Wiebe, Johannes
+Mhm.
+0:22:43.350 --> 0:22:47.500
+Kraus, Clemens
+Weswegen wurde jetzt auch hier auf dieses Gramm, was man dann ja relativ einfach sagen kann? Ok, ich hab.
+0:22:48.480 --> 0:22:51.990
+Kraus, Clemens
+Psm 1 zack, da bitte zertifiziert.
+0:22:52.880 --> 0:22:55.980
+Kraus, Clemens
+Darauf irgendwie eher fokussieren, weil so z kannst Geschichten.
+0:22:59.330 --> 0:23:2.60
+Wiebe, Johannes
+Okay gut zu wissen, dann sollten wir das mal doch.
+0:23:2.750 --> 0:23:9.210
+Wiebe, Johannes
+Vielleicht dann irgendwie so ein Basis stammt aufs Auffüllen sozusagen ja, ok cool.
+0:23:10.270 --> 0:23:11.440
+Glüsenkamp, Dennis
+Ganz wichtig ist, dass.
+0:23:10.380 --> 0:23:16.300
+Kraus, Clemens
+Bei Fragen wegen den Pizzeria Schulungen gerne Axel Wenden, der hat inzwischen alle, der ist alles.
+0:23:19.260 --> 0:23:20.190
+Wiebe, Johannes
+Damit du Trophäen.
+0:23:22.740 --> 0:23:31.730
+Glüsenkamp, Dennis
+Ja, das ist auch das ganz wichtige, dass man hier diese bunten Kreise sammeln kann, ne? Hier kann man bunte Kreise sammeln. Hier kann man bunte Kreise sammeln lassen. Das ist das, worum es geht.
+0:23:32.730 --> 0:23:36.890
+Kraus, Clemens
+Uns zählt eigentlich nur, wenn wir uns auf linkedin teilt, also Axel Ich weiß nicht, ob es noch nicht gesehen.
+0:23:38.310 --> 0:23:40.650
+Demel, Axel
+Ne so schlimm ist dann bei mir doch noch nicht also.
+0:23:43.350 --> 0:23:46.520
+Biermann, Phillip
+Ja schade, die Keeper entschuldigen kann sie nicht auf linken Teil ne.
+0:23:48.690 --> 0:23:51.880
+Demel, Axel
+Na gut, das war jetzt Save die letzte also das geht schon aber.
+0:23:53.70 --> 0:23:53.820
+Demel, Axel
+Muss ja nicht.
+0:23:53.590 --> 0:23:55.500
+Biermann, Phillip
+Das, das musst du auf jeden Fall noch machen.
+0:23:59.970 --> 0:24:0.500
+Glüsenkamp, Dennis
+G.
+0:24:2.960 --> 0:24:4.780
+Glüsenkamp, Dennis
+Viel wollte hier was zu sagen.
+0:24:8.500 --> 0:24:38.450
+Biermann, Phillip
+Burke kannst du gerne auf abgeschlossen setzen? Grundsätzlich erstmal für diejenigen, die jetzt dabei sind oder vielleicht für die anderen interessant also wir sind natürlich jetzt wieder bisschen weniger geworden. Es gibt viele Leute, die familiäre Verpflichtungen haben und das noch nicht so richtig planen können. Was jetzt völkischen angeht, aber ich bemühe mich jetzt quasi im Januar so ein bisschen das das Festzuzurren ne so, dass wir einerseits.
+0:24:38.790 --> 0:24:57.730
+Biermann, Phillip
+Fest wissen ok dann dann gibt es die work a schen und andererseits vielleicht oder oder noch die Möglichkeit bieten, für Leute, die spontan sagen Ah, es geht doch ne, das war eher so n Thema man kann es halt nicht planen ist ja auch voll verständlich, dass man noch spontan mit dazu mal dazu kommen könnte.
+0:24:58.340 --> 0:24:58.990
+Biermann, Phillip
+Genau.
+0:25:1.120 --> 0:25:5.430
+Biermann, Phillip
+Habt ihr jetzt kommen, wenn wahrscheinlich einer der nächste Regenwetter mir das dann?
+0:25:12.780 --> 0:25:13.380
+Glüsenkamp, Dennis
+Okay.
+0:25:14.740 --> 0:25:17.10
+Glüsenkamp, Dennis
+Dann, ich kann nicht mehr weiter runter scrollen.
+0:25:19.120 --> 0:25:20.330
+Kraus, Clemens
+Ganz Ende erreicht?
+0:25:20.980 --> 0:25:21.450
+Glüsenkamp, Dennis
+Genau.
+0:25:20.840 --> 0:25:31.600
+Biermann, Phillip
+Dann würde ich vorschlagen, der Sprint, der weiter vom 9. Dezember terminiert ich würde jetzt einfach mal einen neuen Start, ich hab das hier gerade aufgemacht wollen wir wieder im Quartalsbereich bleiben?
+0:25:33.950 --> 0:25:34.390
+Glüsenkamp, Dennis
+Ja.
+0:25:34.310 --> 0:25:49.110
+Kraus, Clemens
+Ja, und ich würde vorschlagen, dass alle, die Issues zugeordnet habe, muss ich überlegen können, ob Sie die auf Sport nehmen wollen. Ich hab gesehen, es gibt auch noch Issues, die noch niemand hat haben also wenn ihr Lust nicht hinzunehmen fällt gerne einfach mal nach anders sein und denkt euch was aus.
+0:25:50.280 --> 0:25:59.810
+Kraus, Clemens
+Genau und dann könnten wir überlegen, ob wir ein Paar von denen noch aufs Wort nehmen, oder ob wir sagen, wir haben keine Zeit, Kapazität, Kapazitäten et cetera.
+0:26:2.340 --> 0:26:5.740
+Kraus, Clemens
+Einfach das genau dürft ihr dürft ihr selbst entscheiden, wenn ihr.
+0:26:6.950 --> 0:26:10.160
+Kraus, Clemens
+Da in issue zugeteilt habt oder euch einzunehmen wollt.
+0:26:22.300 --> 0:26:22.830
+Glüsenkamp, Dennis
+Dann.
+0:26:22.560 --> 0:26:27.140
+Biermann, Phillip
+Ok Dennis Marks kurz checken, ob du das den neuen schon siehst neuen Sprint?
+0:26:31.210 --> 0:26:32.290
+Glüsenkamp, Dennis
+Der is close.
+0:26:33.810 --> 0:26:36.350
+Glüsenkamp, Dennis
+Der so ja weiß da.
+0:26:35.520 --> 0:26:39.920
+Biermann, Phillip
+Meinst du die Ganzen dann ist schon mal weg passt?
+0:26:45.760 --> 0:26:46.240
+Glüsenkamp, Dennis
+Dann.
+0:26:50.110 --> 0:26:53.660
+Glüsenkamp, Dennis
+Wenn sonst keiner mehr was hat, haben wir schon durch.
+0:26:55.900 --> 0:26:56.410
+Kraus, Clemens
+Genau.
+0:26:55.350 --> 0:26:56.960
+Glüsenkamp, Dennis
+Ne Wartezimmer.
+0:26:55.250 --> 0:27:0.860
+Biermann, Phillip
+Dann stopp ich mal die die Transkription und bin gespannt, was rauskommt.
+0:27:1.740 --> 0:27:4.890
+Kraus, Clemens
+Ja, sag mal Bescheid, was da rauskommt, bin ich auch gespannt.
